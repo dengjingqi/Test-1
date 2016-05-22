@@ -1,0 +1,11 @@
+.\output\i2cinterrup.o: I2CInterrup.c
+.\output\i2cinterrup.o: Config.h
+.\output\i2cinterrup.o: C:\Keil\ARM\Inc\ST\STM32F0xx\stm32f0xx.h
+.\output\i2cinterrup.o: C:\Keil\ARM\CMSIS\Include\core_cm0.h
+.\output\i2cinterrup.o: C:\Keil\ARM\ARMCC\bin\..\include\stdint.h
+.\output\i2cinterrup.o: C:\Keil\ARM\CMSIS\Include\core_cmInstr.h
+.\output\i2cinterrup.o: C:\Keil\ARM\CMSIS\Include\core_cmFunc.h
+.\output\i2cinterrup.o: C:\Keil\ARM\Inc\ST\STM32F0xx\system_stm32f0xx.h
+.\output\i2cinterrup.o: C:\Keil\ARM\ARMCC\bin\..\include\String.h
+.\output\i2cinterrup.o: System.h
+.\output\i2cinterrup.o: I2CInterrup.h

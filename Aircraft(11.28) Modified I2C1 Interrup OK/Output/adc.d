@@ -1,0 +1,10 @@
+.\output\adc.o: ADC.c
+.\output\adc.o: Config.h
+.\output\adc.o: C:\Keil\ARM\Inc\ST\STM32F0xx\stm32f0xx.h
+.\output\adc.o: C:\Keil\ARM\CMSIS\Include\core_cm0.h
+.\output\adc.o: C:\Keil\ARM\ARMCC\bin\..\include\stdint.h
+.\output\adc.o: C:\Keil\ARM\CMSIS\Include\core_cmInstr.h
+.\output\adc.o: C:\Keil\ARM\CMSIS\Include\core_cmFunc.h
+.\output\adc.o: C:\Keil\ARM\Inc\ST\STM32F0xx\system_stm32f0xx.h
+.\output\adc.o: System.h
+.\output\adc.o: ADC.h

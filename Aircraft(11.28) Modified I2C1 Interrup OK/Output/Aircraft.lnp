@@ -1,0 +1,14 @@
+--cpu Cortex-M0
+".\output\system.o"
+".\output\startup_stm32f051.o"
+".\output\main.o"
+".\output\spi.o"
+".\output\adc.o"
+".\output\mpu6050.o"
+".\output\rf_xn297.o"
+".\output\fbm320.o"
+".\output\i2cinquire.o"
+--strict --scatter ".\Output\Aircraft.sct"
+--summary_stderr --info summarysizes --map --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list ".\Aircraft.map" -o .\Output\Aircraft.axf

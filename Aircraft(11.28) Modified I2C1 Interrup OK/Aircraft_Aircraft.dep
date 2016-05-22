@@ -1,0 +1,92 @@
+Dependencies for Project 'Aircraft', Target 'Aircraft': (DO NOT MODIFY !)
+F (.\System.c)(0x565184A0)(--c99 -c --cpu Cortex-M0 -g -O0 --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\ST\STM32F0xx-DSTM32F051-o .\output\system.o --omf_browse .\output\system.crf --depend .\output\system.d)
+I (C:\Keil\ARM\Inc\ST\STM32F0xx\stm32f0xx.h)(0x532BF35C)
+I (C:\Keil\ARM\CMSIS\Include\core_cm0.h)(0x532BF7C2)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C7C554)
+I (C:\Keil\ARM\CMSIS\Include\core_cmInstr.h)(0x532BF7C2)
+I (C:\Keil\ARM\CMSIS\Include\core_cmFunc.h)(0x532BF7C2)
+I (C:\Keil\ARM\Inc\ST\STM32F0xx\system_stm32f0xx.h)(0x532BF35C)
+I (System.h)(0x53B5094B)
+I (ADC.h)(0x539123CD)
+I (SPI.h)(0x531693E2)
+I (RF_XN297.h)(0x56593922)
+F (.\startup_stm32f051.s)(0x532BF31C)(--cpu Cortex-M0 -g --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\ST\STM32F0xx--list .\startup_stm32f051.lst --xref -o .\output\startup_stm32f051.o --depend .\output\startup_stm32f051.d)
+F (.\main.c)(0x574134B0)(--c99 -c --cpu Cortex-M0 -g -O0 --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\ST\STM32F0xx-DSTM32F051-o .\output\main.o --omf_browse .\output\main.crf --depend .\output\main.d)
+I (C:\Keil\ARM\Inc\ST\STM32F0xx\stm32f0xx.h)(0x532BF35C)
+I (C:\Keil\ARM\CMSIS\Include\core_cm0.h)(0x532BF7C2)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C7C554)
+I (C:\Keil\ARM\CMSIS\Include\core_cmInstr.h)(0x532BF7C2)
+I (C:\Keil\ARM\CMSIS\Include\core_cmFunc.h)(0x532BF7C2)
+I (C:\Keil\ARM\Inc\ST\STM32F0xx\system_stm32f0xx.h)(0x532BF35C)
+I (System.h)(0x53B5094B)
+I (I2CInterrup.h)(0x5659AF0A)
+I (Main.h)(0x565184E9)
+I (ADC.h)(0x539123CD)
+I (PWM.h)(0x564446EF)
+I (MPU6050.h)(0x5647EA23)
+I (RF_XN297.h)(0x56593922)
+I (SPI.h)(0x531693E2)
+I (FBM320.h)(0x5655B26E)
+F (.\SPI.c)(0x5642AAFD)(--c99 -c --cpu Cortex-M0 -g -O0 --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\ST\STM32F0xx-DSTM32F051-o .\output\spi.o --omf_browse .\output\spi.crf --depend .\output\spi.d)
+I (Config.h)(0x53F41A5A)
+I (C:\Keil\ARM\Inc\ST\STM32F0xx\stm32f0xx.h)(0x532BF35C)
+I (C:\Keil\ARM\CMSIS\Include\core_cm0.h)(0x532BF7C2)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C7C554)
+I (C:\Keil\ARM\CMSIS\Include\core_cmInstr.h)(0x532BF7C2)
+I (C:\Keil\ARM\CMSIS\Include\core_cmFunc.h)(0x532BF7C2)
+I (C:\Keil\ARM\Inc\ST\STM32F0xx\system_stm32f0xx.h)(0x532BF35C)
+I (System.h)(0x53B5094B)
+I (SPI.h)(0x531693E2)
+F (.\ADC.c)(0x5642D971)(--c99 -c --cpu Cortex-M0 -g -O0 --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\ST\STM32F0xx-DSTM32F051-o .\output\adc.o --omf_browse .\output\adc.crf --depend .\output\adc.d)
+I (Config.h)(0x53F41A5A)
+I (C:\Keil\ARM\Inc\ST\STM32F0xx\stm32f0xx.h)(0x532BF35C)
+I (C:\Keil\ARM\CMSIS\Include\core_cm0.h)(0x532BF7C2)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C7C554)
+I (C:\Keil\ARM\CMSIS\Include\core_cmInstr.h)(0x532BF7C2)
+I (C:\Keil\ARM\CMSIS\Include\core_cmFunc.h)(0x532BF7C2)
+I (C:\Keil\ARM\Inc\ST\STM32F0xx\system_stm32f0xx.h)(0x532BF35C)
+I (System.h)(0x53B5094B)
+I (ADC.h)(0x539123CD)
+F (.\MPU6050.c)(0x56598CC3)(--c99 -c --cpu Cortex-M0 -g -O0 --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\ST\STM32F0xx-DSTM32F051-o .\output\mpu6050.o --omf_browse .\output\mpu6050.crf --depend .\output\mpu6050.d)
+I (C:\Keil\ARM\Inc\ST\STM32F0xx\stm32f0xx.h)(0x532BF35C)
+I (C:\Keil\ARM\CMSIS\Include\core_cm0.h)(0x532BF7C2)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C7C554)
+I (C:\Keil\ARM\CMSIS\Include\core_cmInstr.h)(0x532BF7C2)
+I (C:\Keil\ARM\CMSIS\Include\core_cmFunc.h)(0x532BF7C2)
+I (C:\Keil\ARM\Inc\ST\STM32F0xx\system_stm32f0xx.h)(0x532BF35C)
+I (System.h)(0x53B5094B)
+I (I2CInterrup.h)(0x5659AF0A)
+I (C:\Keil\ARM\ARMCC\include\math.h)(0x51C7C554)
+I (MPU6050.h)(0x5647EA23)
+F (.\RF_XN297.c)(0x56518D3F)(--c99 -c --cpu Cortex-M0 -g -O0 --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\ST\STM32F0xx-DSTM32F051-o .\output\rf_xn297.o --omf_browse .\output\rf_xn297.crf --depend .\output\rf_xn297.d)
+I (C:\Keil\ARM\Inc\ST\STM32F0xx\stm32f0xx.h)(0x532BF35C)
+I (C:\Keil\ARM\CMSIS\Include\core_cm0.h)(0x532BF7C2)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C7C554)
+I (C:\Keil\ARM\CMSIS\Include\core_cmInstr.h)(0x532BF7C2)
+I (C:\Keil\ARM\CMSIS\Include\core_cmFunc.h)(0x532BF7C2)
+I (C:\Keil\ARM\Inc\ST\STM32F0xx\system_stm32f0xx.h)(0x532BF35C)
+I (System.h)(0x53B5094B)
+I (SPI.h)(0x531693E2)
+I (RF_XN297.h)(0x56593922)
+I (main.h)(0x565184E9)
+F (.\FBM320.c)(0x5659C203)(--c99 -c --cpu Cortex-M0 -g -O0 --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\ST\STM32F0xx-DSTM32F051-o .\output\fbm320.o --omf_browse .\output\fbm320.crf --depend .\output\fbm320.d)
+I (C:\Keil\ARM\Inc\ST\STM32F0xx\stm32f0xx.h)(0x532BF35C)
+I (C:\Keil\ARM\CMSIS\Include\core_cm0.h)(0x532BF7C2)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C7C554)
+I (C:\Keil\ARM\CMSIS\Include\core_cmInstr.h)(0x532BF7C2)
+I (C:\Keil\ARM\CMSIS\Include\core_cmFunc.h)(0x532BF7C2)
+I (C:\Keil\ARM\Inc\ST\STM32F0xx\system_stm32f0xx.h)(0x532BF35C)
+I (System.h)(0x53B5094B)
+I (FBM320.h)(0x5655B26E)
+I (I2CInterrup.h)(0x5659AF0A)
+F (.\I2CInquire.c)(0x57413578)(--c99 -c --cpu Cortex-M0 -g -O0 --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\ST\STM32F0xx-DSTM32F051-o .\output\i2cinquire.o --omf_browse .\output\i2cinquire.crf --depend .\output\i2cinquire.d)
+I (Config.h)(0x53F41A5A)
+I (C:\Keil\ARM\Inc\ST\STM32F0xx\stm32f0xx.h)(0x532BF35C)
+I (C:\Keil\ARM\CMSIS\Include\core_cm0.h)(0x532BF7C2)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C7C554)
+I (C:\Keil\ARM\CMSIS\Include\core_cmInstr.h)(0x532BF7C2)
+I (C:\Keil\ARM\CMSIS\Include\core_cmFunc.h)(0x532BF7C2)
+I (C:\Keil\ARM\Inc\ST\STM32F0xx\system_stm32f0xx.h)(0x532BF35C)
+I (C:\Keil\ARM\ARMCC\include\String.h)(0x51C7C554)
+I (System.h)(0x53B5094B)
+I (I2CInquire.h)(0x56518A32)

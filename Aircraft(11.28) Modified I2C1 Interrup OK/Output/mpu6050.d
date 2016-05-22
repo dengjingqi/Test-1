@@ -1,0 +1,11 @@
+.\output\mpu6050.o: MPU6050.c
+.\output\mpu6050.o: C:\Keil\ARM\Inc\ST\STM32F0xx\stm32f0xx.h
+.\output\mpu6050.o: C:\Keil\ARM\CMSIS\Include\core_cm0.h
+.\output\mpu6050.o: C:\Keil\ARM\ARMCC\bin\..\include\stdint.h
+.\output\mpu6050.o: C:\Keil\ARM\CMSIS\Include\core_cmInstr.h
+.\output\mpu6050.o: C:\Keil\ARM\CMSIS\Include\core_cmFunc.h
+.\output\mpu6050.o: C:\Keil\ARM\Inc\ST\STM32F0xx\system_stm32f0xx.h
+.\output\mpu6050.o: System.h
+.\output\mpu6050.o: I2CInterrup.h
+.\output\mpu6050.o: C:\Keil\ARM\ARMCC\bin\..\include\math.h
+.\output\mpu6050.o: MPU6050.h

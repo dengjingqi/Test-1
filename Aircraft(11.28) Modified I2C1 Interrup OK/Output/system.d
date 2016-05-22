@@ -1,0 +1,11 @@
+.\output\system.o: System.c
+.\output\system.o: C:\Keil\ARM\Inc\ST\STM32F0xx\stm32f0xx.h
+.\output\system.o: C:\Keil\ARM\CMSIS\Include\core_cm0.h
+.\output\system.o: C:\Keil\ARM\ARMCC\bin\..\include\stdint.h
+.\output\system.o: C:\Keil\ARM\CMSIS\Include\core_cmInstr.h
+.\output\system.o: C:\Keil\ARM\CMSIS\Include\core_cmFunc.h
+.\output\system.o: C:\Keil\ARM\Inc\ST\STM32F0xx\system_stm32f0xx.h
+.\output\system.o: System.h
+.\output\system.o: ADC.h
+.\output\system.o: SPI.h
+.\output\system.o: RF_XN297.h
